@@ -1,7 +1,8 @@
 # masters-dissertation
-Dissertation on "Nifty 50 Trend Prediction using Financial News Data and Historical Nifty 50 Data", 2026.
+# Dissertation on "Nifty 50 Trend Prediction using Financial News Data and Historical Nifty 50 Data", 2026.
 
 **Author:** Dhanuja Bukkam
+
 **University:** Goa University | Year: 2026
 
 Abstract:
