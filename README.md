@@ -10,6 +10,6 @@ This dissertation examines whether financial news sentiment can improve Nifty 50
 Keywords: Financial Sentiment Analysis, FinBERT, Nifty 50, Stock Forecasting, NLP.
 
 **Files:**
-- 'Dhanuja_Bukkam_24P0630004_dissertation_thesis_2026%20(1).pdf': full thesis
+- 'Dhanuja_Bukkam_24P0630004_dissertation_thesis_2026%20(1).pdf'
 
 **Tools/Methods used:** Python, Pandas, NumPy, Random Forest Regression, Transformers etc.
